@@ -50,8 +50,8 @@ const Header: React.FC = () => {
             className="flex justify-center space-x-6 mb-8"
           >
             {[
-              { icon: Github, href: "https://github.com/muhammadahmadkhan", label: "GitHub" },
-              { icon: Linkedin, href: "https://linkedin.com/in/muhammadahmadkhan", label: "LinkedIn" },
+              { icon: Github, href: "https://github.com/MuhammadAhmadKhan-2", label: "GitHub" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/muhammad-ahmad-9322071b3/", label: "LinkedIn" },
               { icon: ExternalLink, href: "https://www.upwork.com/freelancers/~011f4e72a1abe5285a", label: "Upwork" },
               { icon: Mail, href: "mailto:muhammadahmaddd8@gmail.com", label: "Email" },
             ].map(({ icon: Icon, href, label }) => (
